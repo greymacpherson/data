@@ -1,7 +1,7 @@
 var data = [
-	{image:"/content/images/waterfront.jpg", description:"Waterfront"},
-	{image:"/content/images/cable-car.jpg", description:"Cable Car"},
-	{image:"/content/images/blouberg.jpg", description:"Blouberg"},
-	{image:"/content/images/sunset.jpg", description:"Sunset"},
-	{image:"/content/images/stadium.jpg", description:"Stadium"}
+	{image:"https://raw.githubusercontent.com/greymacpherson/data/master/waterfront.jpg", description:"Waterfront"},
+	{image:"https://raw.githubusercontent.com/greymacpherson/data/master/cable-car.jpg", description:"Cable Car"},
+	{image:"https://raw.githubusercontent.com/greymacpherson/data/master/blouberg.jpg", description:"Blouberg"},
+	{image:"https://raw.githubusercontent.com/greymacpherson/data/master/sunset.jpg", description:"Sunset"},
+	{image:"https://raw.githubusercontent.com/greymacpherson/data/master/stadium.jpg", description:"Stadium"}
 ]
