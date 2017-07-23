@@ -1,4 +1,4 @@
-[
+var data = [
 	{image:"/content/images/waterfront.jpg", description:"Waterfront"},
 	{image:"/content/images/cable-car.jpg", description:"Cable Car"},
 	{image:"/content/images/blouberg.jpg", description:"Blouberg"},
